@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="255" src="https://i.ibb.co.com/YF0nm37r/MERN-banner.png" alt="MERN Stack Banner" />
+  <img height="240" src="https://i.ibb.co.com/YF0nm37r/MERN-banner.png" alt="MERN Stack Banner" />
 </div>
 <h1 align="center">Assalamu Alaikum, I'm Riazull Jannat 👋</h1>
 <h3 align="center">Full Stack Developer | MERN Stack</h3>
